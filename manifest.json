@@ -1,0 +1,16 @@
+{
+  "name": "Pomoday Timer",
+  "short_name": "Pomoday",
+  "description": "Free online Pomodoro timer with task management, focus sounds, and dark mode",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
